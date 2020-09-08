@@ -7,7 +7,8 @@
   <groupId>paytm</groupId>
   <artifactId>busticket</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+  
+  
   <name>busticket</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
